@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: sandeep-dep123
+  name: sandeep-dep
 spec:
   replicas: 1
   revisionHistoryLimit: 3
